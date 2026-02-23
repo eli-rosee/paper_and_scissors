@@ -4,12 +4,17 @@ A silly little multiplayer game where you run around as a piece of paper and thr
 
 That's it. That's the game.
 
+## Incredibly Low Res Gameplay Gif
+
+
 ## Gameplay
 
 - **Left click** to move your paper
 - **Right click** to throw scissors at someone
 - Hit another player's paper with scissors and they die
 - Get hit by scissors and you die — you become a sad dead piece of paper and can't do anything :(
+
+- Was gonna add interactions with paper shredders but wayyy too much work
 
 ## Tech Stack
 
