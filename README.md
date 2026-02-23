@@ -2,7 +2,7 @@
 
 A silly little multiplayer game where you run around as a piece of paper and throw scissors at each other.
 
-That's it. That's the game.
+That's literally it. That's the game.
 
 ## Incredibly Low Res Gameplay Gif
 
@@ -14,6 +14,9 @@ That's it. That's the game.
 - **Right click** to throw scissors at someone
 - Hit another player's paper with scissors and they die
 - Get hit by scissors and you die - you become a sad dead piece of paper and can't do anything :(
+
+## How It Works (kind of)
+When you move or throw scissors, it tells the server, which tells everyone else. There's also some math happening to make sure all players see projectiles and movement in roughly the same place at roughly the same time (accounting for network delay). Surprisingly non-trivial for a dumb game about paper.
 
 ## Tech Stack
 
